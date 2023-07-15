@@ -7,12 +7,12 @@ on:
     - cron: "0 * * * *"
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - name: Update Recent Activity
-        uses: Cloud-WebIDE/group-github-activity-readme@v1
+        uses: Cloud-WebIDE/group-github-activity-readme@v1.0.5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
