@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Update Recent Activity
-        uses: Cloud-WebIDE/group-github-activity-readme@v1.0.5
+        uses: Cloud-WebIDE/group-github-activity-readme@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
