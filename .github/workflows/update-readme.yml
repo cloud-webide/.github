@@ -17,4 +17,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           GH_USERNAMES: "yiliang114, harbin1053020115"
-          GH_REPOS: "microsoft/vscode, microsoft/vscode-l10n, microsoft/vscode-test-web, coder/code-server"
+          GH_REPOS: "microsoft/vscode, microsoft/vscode-l10n, microsoft/vscode-test-web, coder/code-server, eclipse-theia/theia"
