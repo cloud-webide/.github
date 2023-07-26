@@ -12,7 +12,6 @@
 3. ❗ Opened issue [#187826](https://github.com/microsoft/vscode/issues/187826)  in [microsoft/vscode](https://github.com/microsoft/vscode) at 2023-07-13 12:36:02
 4. 💪 Opened PR [#187796](https://github.com/microsoft/vscode/pull/187796)  in [microsoft/vscode](https://github.com/microsoft/vscode) at 2023-07-13 06:25:23
 5. ❗ Opened issue [#187795](https://github.com/microsoft/vscode/issues/187795)  in [microsoft/vscode](https://github.com/microsoft/vscode) at 2023-07-13 06:23:44
-6. ❗ Opened issue [#187788](https://github.com/microsoft/vscode/issues/187788)  in [microsoft/vscode](https://github.com/microsoft/vscode) at 2023-07-13 02:47:35
 
 ## harbin1053020115's activities: 
 ### [microsoft/vscode](https://github.com/microsoft/vscode)
