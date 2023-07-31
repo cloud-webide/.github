@@ -9,7 +9,6 @@
 ### [microsoft/vscode](https://github.com/microsoft/vscode)
 1. 💪 Opened PR [#188887](https://github.com/microsoft/vscode/pull/188887)  in [microsoft/vscode](https://github.com/microsoft/vscode) at 2023-07-26 03:25:41
 2. 💪 Opened PR [#187902](https://github.com/microsoft/vscode/pull/187902)  in [microsoft/vscode](https://github.com/microsoft/vscode) at 2023-07-14 06:11:21
-3. ❗ Opened issue [#187826](https://github.com/microsoft/vscode/issues/187826)  in [microsoft/vscode](https://github.com/microsoft/vscode) at 2023-07-13 12:36:02
 
 ## harbin1053020115's activities: 
 ### [microsoft/vscode](https://github.com/microsoft/vscode)
