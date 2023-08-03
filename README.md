@@ -7,8 +7,9 @@
 <!--START_SECTION:activity-->
 ## yiliang114's activities: 
 ### [microsoft/vscode](https://github.com/microsoft/vscode)
-1. 💪 Opened PR [#188887](https://github.com/microsoft/vscode/pull/188887)  in [microsoft/vscode](https://github.com/microsoft/vscode) at 2023-07-26 03:25:41
-2. 💪 Opened PR [#187902](https://github.com/microsoft/vscode/pull/187902)  in [microsoft/vscode](https://github.com/microsoft/vscode) at 2023-07-14 06:11:21
+1. 💪 Opened PR [#189557](https://github.com/microsoft/vscode/pull/189557)  in [microsoft/vscode](https://github.com/microsoft/vscode) at 2023-08-03 14:59:59
+2. ❗ Opened issue [#189556](https://github.com/microsoft/vscode/issues/189556)  in [microsoft/vscode](https://github.com/microsoft/vscode) at 2023-08-03 14:58:06
+3. 💪 Opened PR [#188887](https://github.com/microsoft/vscode/pull/188887)  in [microsoft/vscode](https://github.com/microsoft/vscode) at 2023-07-26 03:25:41
 
 ## harbin1053020115's activities: 
 ### [microsoft/vscode](https://github.com/microsoft/vscode)
