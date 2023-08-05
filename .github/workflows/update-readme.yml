@@ -4,7 +4,8 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: "0 * * * *"
+    # 北京时间 9:00
+    - cron: "0 1 * * *"
 
 jobs:
   update:
@@ -12,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Update Recent Activity
-        uses: Cloud-WebIDE/group-github-activity-readme@latest
+        uses: Cloud-WebIDE/group-github-activity-readme@1.2.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
