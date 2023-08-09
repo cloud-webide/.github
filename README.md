@@ -36,7 +36,7 @@
 27. [Unable to specify `folder-uri` run with `./scripts/code-web.sh` #164414](https://github.com/microsoft/vscode/issues/164414) had been Close 🔒 at 2022-10-24 
 ### PR List: 
 1. [fix: Close #189556, gulp task do not display task name #189557](https://github.com/microsoft/vscode/pull/189557) still in Open 💪  at 2023-08-03
-2. [chore: plural naming #188887](https://github.com/microsoft/vscode/pull/188887) still in Open 💪  at 2023-07-26
+2. [chore: plural naming #188887](https://github.com/microsoft/vscode/pull/188887) had been Closed ❌  at 2023-07-26
 3. [fix: Close #187788, recovery tree view state #187902](https://github.com/microsoft/vscode/pull/187902) had been Merged 🎉 at 2023-07-14
 4. [fix: Close #187795, Language pack files for some extensions not found #187796](https://github.com/microsoft/vscode/pull/187796) had been Closed ❌  at 2023-07-13
 5. [fix: typos #186607](https://github.com/microsoft/vscode/pull/186607) had been Merged 🎉 at 2023-06-29
