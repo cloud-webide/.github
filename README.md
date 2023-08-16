@@ -7,7 +7,7 @@
 <!--START_SECTION:activity-->
 ## yiliang114 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### Issue List: 
-1. [gulp task do not display task name #189556](https://github.com/microsoft/vscode/issues/189556) still in Open ❗ at 2023-08-03 
+1. [gulp task do not display task name #189556](https://github.com/microsoft/vscode/issues/189556) had been Close 🔒 at 2023-08-03 
 2. [vscode.dev Cannot open a file in a folder #187826](https://github.com/microsoft/vscode/issues/187826) had been Close 🔒 at 2023-07-13 
 3. [Language pack files for some extensions not found #187795](https://github.com/microsoft/vscode/issues/187795) had been Close 🔒 at 2023-07-13 
 4. [Automatically expand the last expanded folder when the page is refreshed in web. #187788](https://github.com/microsoft/vscode/issues/187788) had been Close 🔒 at 2023-07-13 
@@ -35,7 +35,7 @@
 26. [package.json `browser` field cannot be converted in `acquireWebNodePaths` #165162](https://github.com/microsoft/vscode/issues/165162) had been Close 🔒 at 2022-11-01 
 27. [Unable to specify `folder-uri` run with `./scripts/code-web.sh` #164414](https://github.com/microsoft/vscode/issues/164414) had been Close 🔒 at 2022-10-24 
 ### PR List: 
-1. [fix: Close #189556, gulp task do not display task name #189557](https://github.com/microsoft/vscode/pull/189557) still in Open 💪  at 2023-08-03
+1. [fix: Close #189556, gulp task do not display task name #189557](https://github.com/microsoft/vscode/pull/189557) had been Merged 🎉 at 2023-08-03
 2. [chore: plural naming #188887](https://github.com/microsoft/vscode/pull/188887) had been Closed ❌  at 2023-07-26
 3. [fix: Close #187788, recovery tree view state #187902](https://github.com/microsoft/vscode/pull/187902) had been Merged 🎉 at 2023-07-14
 4. [fix: Close #187795, Language pack files for some extensions not found #187796](https://github.com/microsoft/vscode/pull/187796) had been Closed ❌  at 2023-07-13
