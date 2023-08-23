@@ -60,7 +60,8 @@
 22. [fix: typos #153229](https://github.com/microsoft/vscode/pull/153229) had been Merged 🎉 at 2022-06-26
 ## yiliang114 in [microsoft/vscode-l10n](https://github.com/microsoft/vscode-l10n)
 ### Issue List: 
-1. [Cannot export value on deconstruction #119](https://github.com/microsoft/vscode-l10n/issues/119) still in Open ❗ at 2023-07-07 
+1. [Cannot export value on Variable or Template String #130](https://github.com/microsoft/vscode-l10n/issues/130) had been Close 🔒 at 2023-08-22 
+2. [Cannot export value on deconstruction #119](https://github.com/microsoft/vscode-l10n/issues/119) still in Open ❗ at 2023-07-07 
 ### PR List: 
 1. [fix: tslint error before publish #120](https://github.com/microsoft/vscode-l10n/pull/120) had been Merged 🎉 at 2023-07-07
 2. [fix: #117 Provide a usage example for t(options) signature #118](https://github.com/microsoft/vscode-l10n/pull/118) had been Merged 🎉 at 2023-06-30
