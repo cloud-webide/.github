@@ -69,7 +69,7 @@
 ### Issue List: 
 1. [How to start with https? #42](https://github.com/microsoft/vscode-test-web/issues/42) still in Open ❗ at 2022-09-21 
 ### PR List: 
-1. [fix: code format #86](https://github.com/microsoft/vscode-test-web/pull/86) still in Open 💪  at 2023-06-27
+1. [fix: code format #86](https://github.com/microsoft/vscode-test-web/pull/86) had been Merged 🎉 at 2023-06-27
 ## yiliang114 in [coder/code-server](https://github.com/coder/code-server)
 ### Issue List: 
 1. [[Bug]: Some link path errors #6187](https://github.com/coder/code-server/issues/6187) had been Close 🔒 at 2023-05-03 
