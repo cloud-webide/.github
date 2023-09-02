@@ -7,7 +7,7 @@
 <!--START_SECTION:activity-->
 ## yiliang114 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### Issue List: 
-1. [After the command is localized, it cannot be searched by keywords. #191880](https://github.com/microsoft/vscode/issues/191880) still in Open ❗ at 2023-08-31 
+1. [After the command is localized, it cannot be searched by keywords. #191880](https://github.com/microsoft/vscode/issues/191880) had been Close 🔒 at 2023-08-31 
 2. [Cannot select a path outside the workspace to save the file #191877](https://github.com/microsoft/vscode/issues/191877) still in Open ❗ at 2023-08-31 
 3. [Ref tree item in zone widget cannot repeat click #191177](https://github.com/microsoft/vscode/issues/191177) still in Open ❗ at 2023-08-24 
 4. [Recently opened project has the same name #191157](https://github.com/microsoft/vscode/issues/191157) still in Open ❗ at 2023-08-24 
@@ -40,29 +40,30 @@
 31. [package.json `browser` field cannot be converted in `acquireWebNodePaths` #165162](https://github.com/microsoft/vscode/issues/165162) had been Close 🔒 at 2022-11-01 
 32. [Unable to specify `folder-uri` run with `./scripts/code-web.sh` #164414](https://github.com/microsoft/vscode/issues/164414) had been Close 🔒 at 2022-10-24 
 ### PR List: 
-1. [fix: Close #191877, Correct the root path of the saved file #191878](https://github.com/microsoft/vscode/pull/191878) had been Closed ❌  at 2023-08-31
-2. [fix: Close #189556, gulp task do not display task name #189557](https://github.com/microsoft/vscode/pull/189557) had been Merged 🎉 at 2023-08-03
-3. [chore: plural naming #188887](https://github.com/microsoft/vscode/pull/188887) had been Closed ❌  at 2023-07-26
-4. [fix: Close #187788, recovery tree view state #187902](https://github.com/microsoft/vscode/pull/187902) had been Merged 🎉 at 2023-07-14
-5. [fix: Close #187795, Language pack files for some extensions not found #187796](https://github.com/microsoft/vscode/pull/187796) had been Closed ❌  at 2023-07-13
-6. [fix: typos #186607](https://github.com/microsoft/vscode/pull/186607) had been Merged 🎉 at 2023-06-29
-7. [(test):  fix glob mode match and remove duplicate loader.js in renderer.html #183507](https://github.com/microsoft/vscode/pull/183507) still in Open 💪  at 2023-05-26
-8. [fix: to #182266, Corrected Webview hasFocus check #182279](https://github.com/microsoft/vscode/pull/182279) still in Open 💪  at 2023-05-12
-9. [fix: typos #179581](https://github.com/microsoft/vscode/pull/179581) had been Merged 🎉 at 2023-04-10
-10. [chore: rename wrong service name #177954](https://github.com/microsoft/vscode/pull/177954) had been Merged 🎉 at 2023-03-22
-11. [fix: close #176789 supplement find widget border-bottom-radius #176791](https://github.com/microsoft/vscode/pull/176791) had been Merged 🎉 at 2023-03-10
-12. [fix: close #176763, modify the conditions to load vscode-web-playground #176771](https://github.com/microsoft/vscode/pull/176771) had been Merged 🎉 at 2023-03-10
-13. [fix typos #176764](https://github.com/microsoft/vscode/pull/176764) had been Merged 🎉 at 2023-03-10
-14. [fix: typos #176506](https://github.com/microsoft/vscode/pull/176506) had been Merged 🎉 at 2023-03-08
-15. [fix: Close#171402, fix label name with undefined #171404](https://github.com/microsoft/vscode/pull/171404) had been Closed ❌  at 2023-01-16
-16. [Toggle Editor Layout should hidden when there is … #167747](https://github.com/microsoft/vscode/pull/167747) had been Merged 🎉 at 2022-11-30
-17. [TreeView of Debug Watch Style Defect problem #167725](https://github.com/microsoft/vscode/pull/167725) had been Closed ❌  at 2022-11-30
-18. [Only use string of the `remote/web/package.json` `browser` field #165163](https://github.com/microsoft/vscode/pull/165163) had been Merged 🎉 at 2022-11-01
-19. [fix: typos #164724](https://github.com/microsoft/vscode/pull/164724) had been Closed ❌  at 2022-10-26
-20. [fix: Close #164414, correct transparent transmission folder-uri #164415](https://github.com/microsoft/vscode/pull/164415) had been Merged 🎉 at 2022-10-24
-21. [fix: typos #158431](https://github.com/microsoft/vscode/pull/158431) had been Merged 🎉 at 2022-08-18
-22. [fix: typos #155310](https://github.com/microsoft/vscode/pull/155310) had been Merged 🎉 at 2022-07-15
-23. [fix: typos #153229](https://github.com/microsoft/vscode/pull/153229) had been Merged 🎉 at 2022-06-26
+1. [fix: Close #191880,  Repair command cannot be searched by keyword after localization #191953](https://github.com/microsoft/vscode/pull/191953) had been Merged 🎉 at 2023-09-01
+2. [fix: Close #191877, Correct the root path of the saved file #191878](https://github.com/microsoft/vscode/pull/191878) had been Closed ❌  at 2023-08-31
+3. [fix: Close #189556, gulp task do not display task name #189557](https://github.com/microsoft/vscode/pull/189557) had been Merged 🎉 at 2023-08-03
+4. [chore: plural naming #188887](https://github.com/microsoft/vscode/pull/188887) had been Closed ❌  at 2023-07-26
+5. [fix: Close #187788, recovery tree view state #187902](https://github.com/microsoft/vscode/pull/187902) had been Merged 🎉 at 2023-07-14
+6. [fix: Close #187795, Language pack files for some extensions not found #187796](https://github.com/microsoft/vscode/pull/187796) had been Closed ❌  at 2023-07-13
+7. [fix: typos #186607](https://github.com/microsoft/vscode/pull/186607) had been Merged 🎉 at 2023-06-29
+8. [(test):  fix glob mode match and remove duplicate loader.js in renderer.html #183507](https://github.com/microsoft/vscode/pull/183507) still in Open 💪  at 2023-05-26
+9. [fix: to #182266, Corrected Webview hasFocus check #182279](https://github.com/microsoft/vscode/pull/182279) still in Open 💪  at 2023-05-12
+10. [fix: typos #179581](https://github.com/microsoft/vscode/pull/179581) had been Merged 🎉 at 2023-04-10
+11. [chore: rename wrong service name #177954](https://github.com/microsoft/vscode/pull/177954) had been Merged 🎉 at 2023-03-22
+12. [fix: close #176789 supplement find widget border-bottom-radius #176791](https://github.com/microsoft/vscode/pull/176791) had been Merged 🎉 at 2023-03-10
+13. [fix: close #176763, modify the conditions to load vscode-web-playground #176771](https://github.com/microsoft/vscode/pull/176771) had been Merged 🎉 at 2023-03-10
+14. [fix typos #176764](https://github.com/microsoft/vscode/pull/176764) had been Merged 🎉 at 2023-03-10
+15. [fix: typos #176506](https://github.com/microsoft/vscode/pull/176506) had been Merged 🎉 at 2023-03-08
+16. [fix: Close#171402, fix label name with undefined #171404](https://github.com/microsoft/vscode/pull/171404) had been Closed ❌  at 2023-01-16
+17. [Toggle Editor Layout should hidden when there is … #167747](https://github.com/microsoft/vscode/pull/167747) had been Merged 🎉 at 2022-11-30
+18. [TreeView of Debug Watch Style Defect problem #167725](https://github.com/microsoft/vscode/pull/167725) had been Closed ❌  at 2022-11-30
+19. [Only use string of the `remote/web/package.json` `browser` field #165163](https://github.com/microsoft/vscode/pull/165163) had been Merged 🎉 at 2022-11-01
+20. [fix: typos #164724](https://github.com/microsoft/vscode/pull/164724) had been Closed ❌  at 2022-10-26
+21. [fix: Close #164414, correct transparent transmission folder-uri #164415](https://github.com/microsoft/vscode/pull/164415) had been Merged 🎉 at 2022-10-24
+22. [fix: typos #158431](https://github.com/microsoft/vscode/pull/158431) had been Merged 🎉 at 2022-08-18
+23. [fix: typos #155310](https://github.com/microsoft/vscode/pull/155310) had been Merged 🎉 at 2022-07-15
+24. [fix: typos #153229](https://github.com/microsoft/vscode/pull/153229) had been Merged 🎉 at 2022-06-26
 ## yiliang114 in [microsoft/vscode-l10n](https://github.com/microsoft/vscode-l10n)
 ### Issue List: 
 1. [Cannot export value on Variable or Template String #130](https://github.com/microsoft/vscode-l10n/issues/130) had been Close 🔒 at 2023-08-22 
@@ -74,7 +75,7 @@
 ### Issue List: 
 1. [How to start with https? #42](https://github.com/microsoft/vscode-test-web/issues/42) still in Open ❗ at 2022-09-21 
 ### PR List: 
-1. [fix: code format #86](https://github.com/microsoft/vscode-test-web/pull/86) had been Merged 🎉 at 2023-06-27
+1. [fix: code problems #86](https://github.com/microsoft/vscode-test-web/pull/86) had been Merged 🎉 at 2023-06-27
 ## yiliang114 in [coder/code-server](https://github.com/coder/code-server)
 ### Issue List: 
 1. [[Bug]: Some link path errors #6187](https://github.com/coder/code-server/issues/6187) had been Close 🔒 at 2023-05-03 
