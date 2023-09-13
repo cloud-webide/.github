@@ -105,6 +105,9 @@
 ### PR List: 
 1. [chore: fix typos and add lint #33](https://github.com/opensumi/ide-startup-lite/pull/33) had been Merged 🎉 at 2022-09-17
 2. [fix: fix quot in readme #32](https://github.com/opensumi/ide-startup-lite/pull/32) had been Merged 🎉 at 2022-09-15
+## yiliang114 in [joyceerhl/vscode-pyolite](https://github.com/joyceerhl/vscode-pyolite)
+### PR List: 
+1. [feat: to #13, Add logo to vscode-pyolite #26](https://github.com/joyceerhl/vscode-pyolite/pull/26) still in Open 💪  at 2023-09-13
 ## harbin1053020115 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### Issue List: 
 1. [Select color theme according to current color theme in dev mode #190034](https://github.com/microsoft/vscode/issues/190034) still in Open ❗ at 2023-08-09 
