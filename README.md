@@ -8,7 +8,7 @@
 ## yiliang114 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### Issue List: 
 1. [After the command is localized, it cannot be searched by keywords. #191880](https://github.com/microsoft/vscode/issues/191880) had been Close 🔒 at 2023-08-31 
-2. [Cannot select a path outside the workspace to save the file #191877](https://github.com/microsoft/vscode/issues/191877) still in Open ❗ at 2023-08-31 
+2. [Cannot select a path outside the workspace to save the file #191877](https://github.com/microsoft/vscode/issues/191877) had been Close 🔒 at 2023-08-31 
 3. [Ref tree item in zone widget cannot repeat click #191177](https://github.com/microsoft/vscode/issues/191177) still in Open ❗ at 2023-08-24 
 4. [Recently opened project has the same name #191157](https://github.com/microsoft/vscode/issues/191157) still in Open ❗ at 2023-08-24 
 5. [Can FindWidget in editor be set to draggable #190544](https://github.com/microsoft/vscode/issues/190544) still in Open ❗ at 2023-08-16 
