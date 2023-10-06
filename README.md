@@ -41,7 +41,7 @@
 32. [Unable to specify `folder-uri` run with `./scripts/code-web.sh` #164414](https://github.com/microsoft/vscode/issues/164414) had been Close 🔒 at 2022-10-24 
 ### PR List: 
 1. [fix: to #157015 fix view label command localized #193544](https://github.com/microsoft/vscode/pull/193544) still in Open 💪  at 2023-09-20
-2. [feat: Add the logo of the built-in extension #192999](https://github.com/microsoft/vscode/pull/192999) still in Open 💪  at 2023-09-13
+2. [feat: Add the logo of the built-in extension #192999](https://github.com/microsoft/vscode/pull/192999) had been Merged 🎉 at 2023-09-13
 3. [fix: Close #191880,  Repair command cannot be searched by keyword after localization #191953](https://github.com/microsoft/vscode/pull/191953) had been Merged 🎉 at 2023-09-01
 4. [fix: Close #191877, Correct the root path of the saved file #191878](https://github.com/microsoft/vscode/pull/191878) had been Closed ❌  at 2023-08-31
 5. [fix: Close #189556, gulp task do not display task name #189557](https://github.com/microsoft/vscode/pull/189557) had been Merged 🎉 at 2023-08-03
