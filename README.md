@@ -112,18 +112,20 @@
 1. [feat: to #13, Add logo to vscode-pyolite #26](https://github.com/joyceerhl/vscode-pyolite/pull/26) still in Open 💪  at 2023-09-13
 ## harbin1053020115 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### Issue List: 
-1. [Editor progress bar position is not in right position #195313](https://github.com/microsoft/vscode/issues/195313) still in Open ❗ at 2023-10-11 
-2. [Select color theme according to current color theme in dev mode #190034](https://github.com/microsoft/vscode/issues/190034) still in Open ❗ at 2023-08-09 
-3. [Add codelens to stickyScroll #182949](https://github.com/microsoft/vscode/issues/182949) had been Close 🔒 at 2023-05-19 
-4. [vscode.dev get crashed while saving a untitled editor #177638](https://github.com/microsoft/vscode/issues/177638) had been Close 🔒 at 2023-03-20 
-5. [There is a wrong comment word in 'IPCClient' class(From ipc.ts in vscode source code) #175197](https://github.com/microsoft/vscode/issues/175197) had been Close 🔒 at 2023-02-23 
-6. [yarn run watch-web is not worked #168550](https://github.com/microsoft/vscode/issues/168550) had been Close 🔒 at 2022-12-09 
+1. [Add rootFolderNames & rootFolderNamesExpanded iconThemes definitions for root folders #195316](https://github.com/microsoft/vscode/issues/195316) still in Open ❗ at 2023-10-11 
+2. [Editor progress bar position is not in right position #195313](https://github.com/microsoft/vscode/issues/195313) still in Open ❗ at 2023-10-11 
+3. [Select color theme according to current color theme in dev mode #190034](https://github.com/microsoft/vscode/issues/190034) still in Open ❗ at 2023-08-09 
+4. [Add codelens to stickyScroll #182949](https://github.com/microsoft/vscode/issues/182949) had been Close 🔒 at 2023-05-19 
+5. [vscode.dev get crashed while saving a untitled editor #177638](https://github.com/microsoft/vscode/issues/177638) had been Close 🔒 at 2023-03-20 
+6. [There is a wrong comment word in 'IPCClient' class(From ipc.ts in vscode source code) #175197](https://github.com/microsoft/vscode/issues/175197) had been Close 🔒 at 2023-02-23 
+7. [yarn run watch-web is not worked #168550](https://github.com/microsoft/vscode/issues/168550) had been Close 🔒 at 2022-12-09 
 ### PR List: 
-1. [fix: fix editor progress position when enabled pinnedTabsOnSeparateRow #195314](https://github.com/microsoft/vscode/pull/195314) still in Open 💪  at 2023-10-11
-2. [fix: select theme according to current color theme in dev mode #190035](https://github.com/microsoft/vscode/pull/190035) still in Open 💪  at 2023-08-09
-3. [feat: add code lens in sticky scroll widget #182950](https://github.com/microsoft/vscode/pull/182950) still in Open 💪  at 2023-05-19
-4. [chore: update IPCClient class comment #175198](https://github.com/microsoft/vscode/pull/175198) had been Merged 🎉 at 2023-02-23
-5. [[themes] font-weigth => font-weight #49613](https://github.com/microsoft/vscode/pull/49613) had been Merged 🎉 at 2018-05-10
+1. [feat: support iconThemes definitions for root folders #195319](https://github.com/microsoft/vscode/pull/195319) still in Open 💪  at 2023-10-11
+2. [fix: fix editor progress position when enabled pinnedTabsOnSeparateRow #195314](https://github.com/microsoft/vscode/pull/195314) still in Open 💪  at 2023-10-11
+3. [fix: select theme according to current color theme in dev mode #190035](https://github.com/microsoft/vscode/pull/190035) still in Open 💪  at 2023-08-09
+4. [feat: add code lens in sticky scroll widget #182950](https://github.com/microsoft/vscode/pull/182950) still in Open 💪  at 2023-05-19
+5. [chore: update IPCClient class comment #175198](https://github.com/microsoft/vscode/pull/175198) had been Merged 🎉 at 2023-02-23
+6. [[themes] font-weigth => font-weight #49613](https://github.com/microsoft/vscode/pull/49613) had been Merged 🎉 at 2018-05-10
 ## harbin1053020115 in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
 ### PR List: 
 1. [Refactor/rename messaging contribution push param #10996](https://github.com/eclipse-theia/theia/pull/10996) had been Closed ❌  at 2022-04-06
