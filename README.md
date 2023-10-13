@@ -120,7 +120,7 @@
 6. [There is a wrong comment word in 'IPCClient' class(From ipc.ts in vscode source code) #175197](https://github.com/microsoft/vscode/issues/175197) had been Close 🔒 at 2023-02-23 
 7. [yarn run watch-web is not worked #168550](https://github.com/microsoft/vscode/issues/168550) had been Close 🔒 at 2022-12-09 
 ### PR List: 
-1. [feat: support iconThemes definitions for root folders #195319](https://github.com/microsoft/vscode/pull/195319) still in Open 💪  at 2023-10-11
+1. [feat: support iconThemes definitions for root folders #195319](https://github.com/microsoft/vscode/pull/195319) had been Merged 🎉 at 2023-10-11
 2. [fix: fix editor progress position when enabled pinnedTabsOnSeparateRow #195314](https://github.com/microsoft/vscode/pull/195314) still in Open 💪  at 2023-10-11
 3. [fix: select theme according to current color theme in dev mode #190035](https://github.com/microsoft/vscode/pull/190035) still in Open 💪  at 2023-08-09
 4. [feat: add code lens in sticky scroll widget #182950](https://github.com/microsoft/vscode/pull/182950) still in Open 💪  at 2023-05-19
