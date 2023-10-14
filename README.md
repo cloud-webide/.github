@@ -7,38 +7,39 @@
 <!--START_SECTION:activity-->
 ## yiliang114 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### Issue List: 
-1. [After the command is localized, it cannot be searched by keywords. #191880](https://github.com/microsoft/vscode/issues/191880) had been Close 🔒 at 2023-08-31 
-2. [Cannot select a path outside the workspace to save the file #191877](https://github.com/microsoft/vscode/issues/191877) had been Close 🔒 at 2023-08-31 
-3. [Ref tree item in zone widget cannot repeat click #191177](https://github.com/microsoft/vscode/issues/191177) still in Open ❗ at 2023-08-24 
-4. [Recently opened project has the same name #191157](https://github.com/microsoft/vscode/issues/191157) still in Open ❗ at 2023-08-24 
-5. [Can FindWidget in editor be set to draggable #190544](https://github.com/microsoft/vscode/issues/190544) still in Open ❗ at 2023-08-16 
-6. [gulp task do not display task name #189556](https://github.com/microsoft/vscode/issues/189556) had been Close 🔒 at 2023-08-03 
-7. [vscode.dev Cannot open a file in a folder #187826](https://github.com/microsoft/vscode/issues/187826) had been Close 🔒 at 2023-07-13 
-8. [Language pack files for some extensions not found #187795](https://github.com/microsoft/vscode/issues/187795) had been Close 🔒 at 2023-07-13 
-9. [Automatically expand the last expanded folder when the page is refreshed in web. #187788](https://github.com/microsoft/vscode/issues/187788) had been Close 🔒 at 2023-07-13 
-10. [CustomBuiltinExtensions FromLocations will not automatically load the correct `package.nls.{locale}.json` #186701](https://github.com/microsoft/vscode/issues/186701) had been Close 🔒 at 2023-06-30 
-11. [Explorer refresh does not show latest data of the file system provider #185312](https://github.com/microsoft/vscode/issues/185312) had been Close 🔒 at 2023-06-16 
-12. [Editor does not restore focus after exiting command panel #183890](https://github.com/microsoft/vscode/issues/183890) had been Close 🔒 at 2023-05-31 
-13. [Some Unit Test Problems #183506](https://github.com/microsoft/vscode/issues/183506) still in Open ❗ at 2023-05-26 
-14. [The Toggle Command of Webview can only open, but not close panel #182266](https://github.com/microsoft/vscode/issues/182266) still in Open ❗ at 2023-05-12 
-15. [Forward and backward of trackpad in Webview should be disabled? #182013](https://github.com/microsoft/vscode/issues/182013) had been Close 🔒 at 2023-05-10 
-16. [The button is squeezed in Extension Preview page #178474](https://github.com/microsoft/vscode/issues/178474) had been Close 🔒 at 2023-03-28 
-17. [Search results were not restored when the window was reloaded. #177658](https://github.com/microsoft/vscode/issues/177658) had been Close 🔒 at 2023-03-20 
-18. [Failed to open workspace settings file under empty workspace #177639](https://github.com/microsoft/vscode/issues/177639) had been Close 🔒 at 2023-03-20 
-19. [Find Widget border-bottom-radius Supplement #176789](https://github.com/microsoft/vscode/issues/176789) had been Close 🔒 at 2023-03-10 
-20. [Hard to launch a workbench without a workspace #176763](https://github.com/microsoft/vscode/issues/176763) had been Close 🔒 at 2023-03-10 
-21. [Installation dependency is very slow in china for the first time #173242](https://github.com/microsoft/vscode/issues/173242) had been Close 🔒 at 2023-02-03 
-22. [Leaving duplicate workspace nodes When refreshing #171458](https://github.com/microsoft/vscode/issues/171458) still in Open ❗ at 2023-01-17 
-23. [Label name with `undefined` when the workspace is not named #171402](https://github.com/microsoft/vscode/issues/171402) had been Close 🔒 at 2023-01-16 
-24. [Is there a plan for `vscode` sdk to support Dialog API? #171138](https://github.com/microsoft/vscode/issues/171138) had been Close 🔒 at 2023-01-12 
-25. [Should `vscode.workspace.fs.stat` API  return all content providered by User-defined FileSystem provider #170539](https://github.com/microsoft/vscode/issues/170539) had been Close 🔒 at 2023-01-04 
-26. [The translation of the delete file menu is inconsistent. #170087](https://github.com/microsoft/vscode/issues/170087) had been Close 🔒 at 2022-12-27 
-27. [Extra scroll bar in terminal group #167752](https://github.com/microsoft/vscode/issues/167752) had been Close 🔒 at 2022-11-30 
-28. [Regular expression search file is supported in many places. #167751](https://github.com/microsoft/vscode/issues/167751) had been Close 🔒 at 2022-11-30 
-29. [Toggle Editor Layout should hidden when there is only one editor group #167745](https://github.com/microsoft/vscode/issues/167745) had been Close 🔒 at 2022-11-30 
-30. [TreeView of Debug Watch Style Defect problem #167724](https://github.com/microsoft/vscode/issues/167724) still in Open ❗ at 2022-11-30 
-31. [package.json `browser` field cannot be converted in `acquireWebNodePaths` #165162](https://github.com/microsoft/vscode/issues/165162) had been Close 🔒 at 2022-11-01 
-32. [Unable to specify `folder-uri` run with `./scripts/code-web.sh` #164414](https://github.com/microsoft/vscode/issues/164414) had been Close 🔒 at 2022-10-24 
+1. [Is there a place to reveal the minimum supported browser version? #195552](https://github.com/microsoft/vscode/issues/195552) still in Open ❗ at 2023-10-13 
+2. [After the command is localized, it cannot be searched by keywords. #191880](https://github.com/microsoft/vscode/issues/191880) had been Close 🔒 at 2023-08-31 
+3. [Cannot select a path outside the workspace to save the file #191877](https://github.com/microsoft/vscode/issues/191877) had been Close 🔒 at 2023-08-31 
+4. [Ref tree item in zone widget cannot repeat click #191177](https://github.com/microsoft/vscode/issues/191177) still in Open ❗ at 2023-08-24 
+5. [Recently opened project has the same name #191157](https://github.com/microsoft/vscode/issues/191157) still in Open ❗ at 2023-08-24 
+6. [Can FindWidget in editor be set to draggable #190544](https://github.com/microsoft/vscode/issues/190544) still in Open ❗ at 2023-08-16 
+7. [gulp task do not display task name #189556](https://github.com/microsoft/vscode/issues/189556) had been Close 🔒 at 2023-08-03 
+8. [vscode.dev Cannot open a file in a folder #187826](https://github.com/microsoft/vscode/issues/187826) had been Close 🔒 at 2023-07-13 
+9. [Language pack files for some extensions not found #187795](https://github.com/microsoft/vscode/issues/187795) had been Close 🔒 at 2023-07-13 
+10. [Automatically expand the last expanded folder when the page is refreshed in web. #187788](https://github.com/microsoft/vscode/issues/187788) had been Close 🔒 at 2023-07-13 
+11. [CustomBuiltinExtensions FromLocations will not automatically load the correct `package.nls.{locale}.json` #186701](https://github.com/microsoft/vscode/issues/186701) had been Close 🔒 at 2023-06-30 
+12. [Explorer refresh does not show latest data of the file system provider #185312](https://github.com/microsoft/vscode/issues/185312) had been Close 🔒 at 2023-06-16 
+13. [Editor does not restore focus after exiting command panel #183890](https://github.com/microsoft/vscode/issues/183890) had been Close 🔒 at 2023-05-31 
+14. [Some Unit Test Problems #183506](https://github.com/microsoft/vscode/issues/183506) still in Open ❗ at 2023-05-26 
+15. [The Toggle Command of Webview can only open, but not close panel #182266](https://github.com/microsoft/vscode/issues/182266) still in Open ❗ at 2023-05-12 
+16. [Forward and backward of trackpad in Webview should be disabled? #182013](https://github.com/microsoft/vscode/issues/182013) had been Close 🔒 at 2023-05-10 
+17. [The button is squeezed in Extension Preview page #178474](https://github.com/microsoft/vscode/issues/178474) had been Close 🔒 at 2023-03-28 
+18. [Search results were not restored when the window was reloaded. #177658](https://github.com/microsoft/vscode/issues/177658) had been Close 🔒 at 2023-03-20 
+19. [Failed to open workspace settings file under empty workspace #177639](https://github.com/microsoft/vscode/issues/177639) had been Close 🔒 at 2023-03-20 
+20. [Find Widget border-bottom-radius Supplement #176789](https://github.com/microsoft/vscode/issues/176789) had been Close 🔒 at 2023-03-10 
+21. [Hard to launch a workbench without a workspace #176763](https://github.com/microsoft/vscode/issues/176763) had been Close 🔒 at 2023-03-10 
+22. [Installation dependency is very slow in china for the first time #173242](https://github.com/microsoft/vscode/issues/173242) had been Close 🔒 at 2023-02-03 
+23. [Leaving duplicate workspace nodes When refreshing #171458](https://github.com/microsoft/vscode/issues/171458) still in Open ❗ at 2023-01-17 
+24. [Label name with `undefined` when the workspace is not named #171402](https://github.com/microsoft/vscode/issues/171402) had been Close 🔒 at 2023-01-16 
+25. [Is there a plan for `vscode` sdk to support Dialog API? #171138](https://github.com/microsoft/vscode/issues/171138) had been Close 🔒 at 2023-01-12 
+26. [Should `vscode.workspace.fs.stat` API  return all content providered by User-defined FileSystem provider #170539](https://github.com/microsoft/vscode/issues/170539) had been Close 🔒 at 2023-01-04 
+27. [The translation of the delete file menu is inconsistent. #170087](https://github.com/microsoft/vscode/issues/170087) had been Close 🔒 at 2022-12-27 
+28. [Extra scroll bar in terminal group #167752](https://github.com/microsoft/vscode/issues/167752) had been Close 🔒 at 2022-11-30 
+29. [Regular expression search file is supported in many places. #167751](https://github.com/microsoft/vscode/issues/167751) had been Close 🔒 at 2022-11-30 
+30. [Toggle Editor Layout should hidden when there is only one editor group #167745](https://github.com/microsoft/vscode/issues/167745) had been Close 🔒 at 2022-11-30 
+31. [TreeView of Debug Watch Style Defect problem #167724](https://github.com/microsoft/vscode/issues/167724) still in Open ❗ at 2022-11-30 
+32. [package.json `browser` field cannot be converted in `acquireWebNodePaths` #165162](https://github.com/microsoft/vscode/issues/165162) had been Close 🔒 at 2022-11-01 
+33. [Unable to specify `folder-uri` run with `./scripts/code-web.sh` #164414](https://github.com/microsoft/vscode/issues/164414) had been Close 🔒 at 2022-10-24 
 ### PR List: 
 1. [fix: to #157015 fix view label command localized #193544](https://github.com/microsoft/vscode/pull/193544) had been Merged 🎉 at 2023-09-20
 2. [feat: Add the logo of the built-in extension #192999](https://github.com/microsoft/vscode/pull/192999) had been Merged 🎉 at 2023-09-13
