@@ -113,7 +113,7 @@
 1. [feat: to #13, Add logo to vscode-pyolite #26](https://github.com/joyceerhl/vscode-pyolite/pull/26) still in Open 💪  at 2023-09-13
 ## harbin1053020115 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### Issue List: 
-1. [Add rootFolderNames & rootFolderNamesExpanded iconThemes definitions for root folders #195316](https://github.com/microsoft/vscode/issues/195316) still in Open ❗ at 2023-10-11 
+1. [Add rootFolderNames & rootFolderNamesExpanded iconThemes definitions for root folders #195316](https://github.com/microsoft/vscode/issues/195316) had been Close 🔒 at 2023-10-11 
 2. [Editor progress bar position is not in right position #195313](https://github.com/microsoft/vscode/issues/195313) still in Open ❗ at 2023-10-11 
 3. [Select color theme according to current color theme in dev mode #190034](https://github.com/microsoft/vscode/issues/190034) still in Open ❗ at 2023-08-09 
 4. [Add codelens to stickyScroll #182949](https://github.com/microsoft/vscode/issues/182949) had been Close 🔒 at 2023-05-19 
