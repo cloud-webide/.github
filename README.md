@@ -14,7 +14,7 @@
 5. [Cannot select a path outside the workspace to save the file #191877](https://github.com/microsoft/vscode/issues/191877) had been Close 🔒 at 2023-08-31 
 6. [Ref tree item in zone widget cannot repeat click #191177](https://github.com/microsoft/vscode/issues/191177) still in Open ❗ at 2023-08-24 
 7. [Recently opened project has the same name #191157](https://github.com/microsoft/vscode/issues/191157) still in Open ❗ at 2023-08-24 
-8. [Can FindWidget in editor be set to draggable #190544](https://github.com/microsoft/vscode/issues/190544) still in Open ❗ at 2023-08-16 
+8. [Can FindWidget in editor be set to draggable #190544](https://github.com/microsoft/vscode/issues/190544) had been Close 🔒 at 2023-08-16 
 9. [gulp task do not display task name #189556](https://github.com/microsoft/vscode/issues/189556) had been Close 🔒 at 2023-08-03 
 10. [vscode.dev Cannot open a file in a folder #187826](https://github.com/microsoft/vscode/issues/187826) had been Close 🔒 at 2023-07-13 
 11. [Language pack files for some extensions not found #187795](https://github.com/microsoft/vscode/issues/187795) had been Close 🔒 at 2023-07-13 
