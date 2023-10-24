@@ -7,9 +7,9 @@
 <!--START_SECTION:activity-->
 ## yiliang114 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### Issue List: 
-1. [The default value of the contribution point needs to be displayed as a normal value #195980](https://github.com/microsoft/vscode/issues/195980) still in Open ❗ at 2023-10-19 
+1. [The default value of the contribution point needs to be displayed as a normal value #195980](https://github.com/microsoft/vscode/issues/195980) had been Close 🔒 at 2023-10-19 
 2. [Search for text after localization is not supported at Settings #195796](https://github.com/microsoft/vscode/issues/195796) still in Open ❗ at 2023-10-17 
-3. [Is there a place to reveal the minimum supported browser version? #195552](https://github.com/microsoft/vscode/issues/195552) still in Open ❗ at 2023-10-13 
+3. [Is there a place to reveal the minimum supported browser version? #195552](https://github.com/microsoft/vscode/issues/195552) had been Close 🔒 at 2023-10-13 
 4. [After the command is localized, it cannot be searched by keywords. #191880](https://github.com/microsoft/vscode/issues/191880) had been Close 🔒 at 2023-08-31 
 5. [Cannot select a path outside the workspace to save the file #191877](https://github.com/microsoft/vscode/issues/191877) had been Close 🔒 at 2023-08-31 
 6. [Ref tree item in zone widget cannot repeat click #191177](https://github.com/microsoft/vscode/issues/191177) still in Open ❗ at 2023-08-24 
@@ -43,7 +43,7 @@
 34. [package.json `browser` field cannot be converted in `acquireWebNodePaths` #165162](https://github.com/microsoft/vscode/issues/165162) had been Close 🔒 at 2022-11-01 
 35. [Unable to specify `folder-uri` run with `./scripts/code-web.sh` #164414](https://github.com/microsoft/vscode/issues/164414) had been Close 🔒 at 2022-10-24 
 ### PR List: 
-1. [fix: Close #195980, Fix contribute points default display for extensions #195984](https://github.com/microsoft/vscode/pull/195984) still in Open 💪  at 2023-10-19
+1. [fix: Close #195980, Fix contribute points default display for extensions #195984](https://github.com/microsoft/vscode/pull/195984) had been Merged 🎉 at 2023-10-19
 2. [fix: to #157015 fix view label command localized #193544](https://github.com/microsoft/vscode/pull/193544) had been Merged 🎉 at 2023-09-20
 3. [feat: Add the logo of the built-in extension #192999](https://github.com/microsoft/vscode/pull/192999) had been Merged 🎉 at 2023-09-13
 4. [fix: Close #191880,  Repair command cannot be searched by keyword after localization #191953](https://github.com/microsoft/vscode/pull/191953) had been Merged 🎉 at 2023-09-01
@@ -117,7 +117,7 @@
 ## harbin1053020115 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### Issue List: 
 1. [Add rootFolderNames & rootFolderNamesExpanded iconThemes definitions for root folders #195316](https://github.com/microsoft/vscode/issues/195316) had been Close 🔒 at 2023-10-11 
-2. [Editor progress bar position is not in right position #195313](https://github.com/microsoft/vscode/issues/195313) still in Open ❗ at 2023-10-11 
+2. [Editor progress bar position is not in right position #195313](https://github.com/microsoft/vscode/issues/195313) had been Close 🔒 at 2023-10-11 
 3. [Select color theme according to current color theme in dev mode #190034](https://github.com/microsoft/vscode/issues/190034) still in Open ❗ at 2023-08-09 
 4. [Add codelens to stickyScroll #182949](https://github.com/microsoft/vscode/issues/182949) had been Close 🔒 at 2023-05-19 
 5. [vscode.dev get crashed while saving a untitled editor #177638](https://github.com/microsoft/vscode/issues/177638) had been Close 🔒 at 2023-03-20 
@@ -125,9 +125,9 @@
 7. [yarn run watch-web is not worked #168550](https://github.com/microsoft/vscode/issues/168550) had been Close 🔒 at 2022-12-09 
 ### PR List: 
 1. [feat: support iconThemes definitions for root folders #195319](https://github.com/microsoft/vscode/pull/195319) had been Merged 🎉 at 2023-10-11
-2. [fix: fix editor progress position when enabled pinnedTabsOnSeparateRow #195314](https://github.com/microsoft/vscode/pull/195314) still in Open 💪  at 2023-10-11
+2. [fix: fix editor progress position when enabled pinnedTabsOnSeparateRow #195314](https://github.com/microsoft/vscode/pull/195314) had been Merged 🎉 at 2023-10-11
 3. [fix: select theme according to current color theme in dev mode #190035](https://github.com/microsoft/vscode/pull/190035) still in Open 💪  at 2023-08-09
-4. [feat: add code lens in sticky scroll widget #182950](https://github.com/microsoft/vscode/pull/182950) still in Open 💪  at 2023-05-19
+4. [feat: add code lens in sticky scroll widget #182950](https://github.com/microsoft/vscode/pull/182950) had been Closed ❌  at 2023-05-19
 5. [chore: update IPCClient class comment #175198](https://github.com/microsoft/vscode/pull/175198) had been Merged 🎉 at 2023-02-23
 6. [[themes] font-weigth => font-weight #49613](https://github.com/microsoft/vscode/pull/49613) had been Merged 🎉 at 2018-05-10
 ## harbin1053020115 in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
