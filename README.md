@@ -9,7 +9,7 @@
 ### Issue List: 
 1. [Is the background color of diff as expected? #196685](https://github.com/microsoft/vscode/issues/196685) still in Open ❗ at 2023-10-26 
 2. [The default value of the contribution point needs to be displayed as a normal value #195980](https://github.com/microsoft/vscode/issues/195980) had been Close 🔒 at 2023-10-19 
-3. [Search for text after localization is not supported at Settings #195796](https://github.com/microsoft/vscode/issues/195796) still in Open ❗ at 2023-10-17 
+3. [Search for text after localization is not supported at Settings #195796](https://github.com/microsoft/vscode/issues/195796) had been Close 🔒 at 2023-10-17 
 4. [Is there a place to reveal the minimum supported browser version? #195552](https://github.com/microsoft/vscode/issues/195552) had been Close 🔒 at 2023-10-13 
 5. [After the command is localized, it cannot be searched by keywords. #191880](https://github.com/microsoft/vscode/issues/191880) had been Close 🔒 at 2023-08-31 
 6. [Cannot select a path outside the workspace to save the file #191877](https://github.com/microsoft/vscode/issues/191877) had been Close 🔒 at 2023-08-31 
