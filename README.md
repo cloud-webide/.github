@@ -8,7 +8,7 @@
 ## yiliang114 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### Issue List: 
 1. [Repeated loading of resource requests for web extensions #199269](https://github.com/microsoft/vscode/issues/199269) still in Open ❗ at 2023-11-28 
-2. [Unexpected vsda not found #198827](https://github.com/microsoft/vscode/issues/198827) still in Open ❗ at 2023-11-22 
+2. [Unexpected vsda not found #198827](https://github.com/microsoft/vscode/issues/198827) had been Close 🔒 at 2023-11-22 
 3. [Unable to reuse opened browser pages when debugging VS Code on the Web side #197898](https://github.com/microsoft/vscode/issues/197898) still in Open ❗ at 2023-11-10 
 4. [contribution point `languages` provide the ability to extends #197881](https://github.com/microsoft/vscode/issues/197881) still in Open ❗ at 2023-11-10 
 5. [Is the background color of diff as expected? #196685](https://github.com/microsoft/vscode/issues/196685) still in Open ❗ at 2023-10-26 
@@ -48,7 +48,7 @@
 39. [package.json `browser` field cannot be converted in `acquireWebNodePaths` #165162](https://github.com/microsoft/vscode/issues/165162) had been Close 🔒 at 2022-11-01 
 40. [Unable to specify `folder-uri` run with `./scripts/code-web.sh` #164414](https://github.com/microsoft/vscode/issues/164414) had been Close 🔒 at 2022-10-24 
 ### PR List: 
-1. [fix: #199269 Caching Resource Requests #199270](https://github.com/microsoft/vscode/pull/199270) still in Open 💪  at 2023-11-28
+1. [fix: #199269 Caching Resource Requests #199270](https://github.com/microsoft/vscode/pull/199270) had been Closed ❌  at 2023-11-28
 2. [fix: add nlsConfig to webWorker #192808 #199258](https://github.com/microsoft/vscode/pull/199258) still in Open 💪  at 2023-11-28
 3. [fix: console format of fetchUrl #198909](https://github.com/microsoft/vscode/pull/198909) still in Open 💪  at 2023-11-23
 4. [fix: Close #195980, Fix contribute points default display for extensions #195984](https://github.com/microsoft/vscode/pull/195984) had been Merged 🎉 at 2023-10-19
