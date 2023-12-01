@@ -13,7 +13,7 @@
 4. [contribution point `languages` provide the ability to extends #197881](https://github.com/microsoft/vscode/issues/197881) still in Open ❗ at 2023-11-10 
 5. [Is the background color of diff as expected? #196685](https://github.com/microsoft/vscode/issues/196685) still in Open ❗ at 2023-10-26 
 6. [The default value of the contribution point needs to be displayed as a normal value #195980](https://github.com/microsoft/vscode/issues/195980) had been Close 🔒 at 2023-10-19 
-7. [Search for text after localization is not supported at Settings #195796](https://github.com/microsoft/vscode/issues/195796) had been Close 🔒 at 2023-10-17 
+7. [Searching for text after localization is not supported in the Settings editor #195796](https://github.com/microsoft/vscode/issues/195796) had been Close 🔒 at 2023-10-17 
 8. [Is there a place to reveal the minimum supported browser version? #195552](https://github.com/microsoft/vscode/issues/195552) had been Close 🔒 at 2023-10-13 
 9. [After the command is localized, it cannot be searched by keywords. #191880](https://github.com/microsoft/vscode/issues/191880) had been Close 🔒 at 2023-08-31 
 10. [Cannot select a path outside the workspace to save the file #191877](https://github.com/microsoft/vscode/issues/191877) had been Close 🔒 at 2023-08-31 
@@ -112,7 +112,10 @@
 7. [fix(commad): close #11346, use available number to label when create … #11347](https://github.com/eclipse-theia/theia/pull/11347) had been Merged 🎉 at 2022-06-26
 ## yiliang114 in [opensumi/core](https://github.com/opensumi/core)
 ### Issue List: 
-1. [[BUG] Label should not set line-height in Editor Group Tab  #1668](https://github.com/opensumi/core/issues/1668) had been Close 🔒 at 2022-09-17 
+1. [[BUG] 已打开的文件，如果是在根目录下， 描述不显示可能更清晰？ #3224](https://github.com/opensumi/core/issues/3224) still in Open ❗ at 2023-11-30 
+2. [[BUG] Label should not set line-height in Editor Group Tab  #1668](https://github.com/opensumi/core/issues/1668) had been Close 🔒 at 2022-09-17 
+### PR List: 
+1. [fix: to #3224,  Omit display description information #3225](https://github.com/opensumi/core/pull/3225) still in Open 💪  at 2023-11-30
 ## yiliang114 in [opensumi/ide-startup-lite](https://github.com/opensumi/ide-startup-lite)
 ### Issue List: 
 1. [打开 networks 尝试审查元素，chrome 失效，一定时间之后页面 100% 崩溃 #50](https://github.com/opensumi/ide-startup-lite/issues/50) still in Open ❗ at 2023-03-11 
