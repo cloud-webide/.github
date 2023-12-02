@@ -115,7 +115,7 @@
 1. [[BUG] 已打开的文件，如果是在根目录下， 描述不显示可能更清晰？ #3224](https://github.com/opensumi/core/issues/3224) still in Open ❗ at 2023-11-30 
 2. [[BUG] Label should not set line-height in Editor Group Tab  #1668](https://github.com/opensumi/core/issues/1668) had been Close 🔒 at 2022-09-17 
 ### PR List: 
-1. [fix: to #3224,  Omit display description information #3225](https://github.com/opensumi/core/pull/3225) still in Open 💪  at 2023-11-30
+1. [fix: to #3224,  Omit display description information #3225](https://github.com/opensumi/core/pull/3225) had been Merged 🎉 at 2023-11-30
 ## yiliang114 in [opensumi/ide-startup-lite](https://github.com/opensumi/ide-startup-lite)
 ### Issue List: 
 1. [打开 networks 尝试审查元素，chrome 失效，一定时间之后页面 100% 崩溃 #50](https://github.com/opensumi/ide-startup-lite/issues/50) still in Open ❗ at 2023-03-11 
