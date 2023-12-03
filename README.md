@@ -112,7 +112,7 @@
 7. [fix(commad): close #11346, use available number to label when create … #11347](https://github.com/eclipse-theia/theia/pull/11347) had been Merged 🎉 at 2022-06-26
 ## yiliang114 in [opensumi/core](https://github.com/opensumi/core)
 ### Issue List: 
-1. [[BUG] 已打开的文件，如果是在根目录下， 描述不显示可能更清晰？ #3224](https://github.com/opensumi/core/issues/3224) still in Open ❗ at 2023-11-30 
+1. [[BUG] 已打开的文件，如果是在根目录下， 描述不显示可能更清晰？ #3224](https://github.com/opensumi/core/issues/3224) had been Close 🔒 at 2023-11-30 
 2. [[BUG] Label should not set line-height in Editor Group Tab  #1668](https://github.com/opensumi/core/issues/1668) had been Close 🔒 at 2022-09-17 
 ### PR List: 
 1. [fix: to #3224,  Omit display description information #3225](https://github.com/opensumi/core/pull/3225) had been Merged 🎉 at 2023-11-30
