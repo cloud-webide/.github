@@ -61,7 +61,7 @@
 11. [fix: Close #187788, recovery tree view state #187902](https://github.com/microsoft/vscode/pull/187902) had been Merged 🎉 at 2023-07-14
 12. [fix: Close #187795, Language pack files for some extensions not found #187796](https://github.com/microsoft/vscode/pull/187796) had been Closed ❌  at 2023-07-13
 13. [fix: typos #186607](https://github.com/microsoft/vscode/pull/186607) had been Merged 🎉 at 2023-06-29
-14. [(test):  fix glob mode match and remove duplicate loader.js in renderer.html #183507](https://github.com/microsoft/vscode/pull/183507) still in Open 💪  at 2023-05-26
+14. [(test):  fix glob mode match and remove duplicate loader.js in renderer.html #183507](https://github.com/microsoft/vscode/pull/183507) had been Closed ❌  at 2023-05-26
 15. [fix: to #182266, Corrected Webview hasFocus check #182279](https://github.com/microsoft/vscode/pull/182279) still in Open 💪  at 2023-05-12
 16. [fix: typos #179581](https://github.com/microsoft/vscode/pull/179581) had been Merged 🎉 at 2023-04-10
 17. [chore: rename wrong service name #177954](https://github.com/microsoft/vscode/pull/177954) had been Merged 🎉 at 2023-03-22
