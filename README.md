@@ -50,7 +50,7 @@
 ### PR List: 
 1. [fix: #199269 Caching Resource Requests #199270](https://github.com/microsoft/vscode/pull/199270) had been Closed ❌  at 2023-11-28
 2. [fix: add nlsConfig to webWorker #192808 #199258](https://github.com/microsoft/vscode/pull/199258) still in Open 💪  at 2023-11-28
-3. [fix: console format of fetchUrl #198909](https://github.com/microsoft/vscode/pull/198909) still in Open 💪  at 2023-11-23
+3. [fix: console format of fetchUrl #198909](https://github.com/microsoft/vscode/pull/198909) had been Merged 🎉 at 2023-11-23
 4. [fix: Close #195980, Fix contribute points default display for extensions #195984](https://github.com/microsoft/vscode/pull/195984) had been Merged 🎉 at 2023-10-19
 5. [fix: to #157015 fix view label command localized #193544](https://github.com/microsoft/vscode/pull/193544) had been Merged 🎉 at 2023-09-20
 6. [feat: Add the logo of the built-in extension #192999](https://github.com/microsoft/vscode/pull/192999) had been Merged 🎉 at 2023-09-13
