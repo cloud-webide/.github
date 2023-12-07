@@ -10,7 +10,7 @@
 1. [Repeated loading of resource requests for web extensions #199269](https://github.com/microsoft/vscode/issues/199269) still in Open ❗ at 2023-11-28 
 2. [Unexpected vsda not found #198827](https://github.com/microsoft/vscode/issues/198827) had been Close 🔒 at 2023-11-22 
 3. [Unable to reuse opened browser pages when debugging VS Code on the Web side #197898](https://github.com/microsoft/vscode/issues/197898) still in Open ❗ at 2023-11-10 
-4. [contribution point `languages` provide the ability to extends #197881](https://github.com/microsoft/vscode/issues/197881) still in Open ❗ at 2023-11-10 
+4. [[languages] contribution point `languages` provide the ability to extends #197881](https://github.com/microsoft/vscode/issues/197881) still in Open ❗ at 2023-11-10 
 5. [Is the background color of diff as expected? #196685](https://github.com/microsoft/vscode/issues/196685) still in Open ❗ at 2023-10-26 
 6. [The default value of the contribution point needs to be displayed as a normal value #195980](https://github.com/microsoft/vscode/issues/195980) had been Close 🔒 at 2023-10-19 
 7. [Searching for text after localization is not supported in the Settings editor #195796](https://github.com/microsoft/vscode/issues/195796) had been Close 🔒 at 2023-10-17 
