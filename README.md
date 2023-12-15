@@ -45,7 +45,7 @@
 36. [Extra scroll bar in terminal group #167752](https://github.com/microsoft/vscode/issues/167752) had been Close 🔒 at 2022-11-30 
 37. [Regular expression search file is supported in many places. #167751](https://github.com/microsoft/vscode/issues/167751) had been Close 🔒 at 2022-11-30 
 38. [Toggle Editor Layout should hidden when there is only one editor group #167745](https://github.com/microsoft/vscode/issues/167745) had been Close 🔒 at 2022-11-30 
-39. [TreeView of Debug Watch Style Defect problem #167724](https://github.com/microsoft/vscode/issues/167724) still in Open ❗ at 2022-11-30 
+39. [TreeView of Debug Watch Style Defect problem #167724](https://github.com/microsoft/vscode/issues/167724) had been Close 🔒 at 2022-11-30 
 40. [package.json `browser` field cannot be converted in `acquireWebNodePaths` #165162](https://github.com/microsoft/vscode/issues/165162) had been Close 🔒 at 2022-11-01 
 41. [Unable to specify `folder-uri` run with `./scripts/code-web.sh` #164414](https://github.com/microsoft/vscode/issues/164414) had been Close 🔒 at 2022-10-24 
 ### PR List: 
