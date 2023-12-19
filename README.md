@@ -28,7 +28,7 @@
 19. [CustomBuiltinExtensions FromLocations will not automatically load the correct `package.nls.{locale}.json` #186701](https://github.com/microsoft/vscode/issues/186701) had been Close 🔒 at 2023-06-30 
 20. [Explorer refresh does not show latest data of the file system provider #185312](https://github.com/microsoft/vscode/issues/185312) had been Close 🔒 at 2023-06-16 
 21. [Editor does not restore focus after exiting command panel #183890](https://github.com/microsoft/vscode/issues/183890) had been Close 🔒 at 2023-05-31 
-22. [Some Unit Test Problems #183506](https://github.com/microsoft/vscode/issues/183506) still in Open ❗ at 2023-05-26 
+22. [Some Unit Test Problems #183506](https://github.com/microsoft/vscode/issues/183506) had been Close 🔒 at 2023-05-26 
 23. [The Toggle Command of Webview can only open, but not close panel #182266](https://github.com/microsoft/vscode/issues/182266) still in Open ❗ at 2023-05-12 
 24. [Forward and backward of trackpad in Webview should be disabled? #182013](https://github.com/microsoft/vscode/issues/182013) had been Close 🔒 at 2023-05-10 
 25. [The button is squeezed in Extension Preview page #178474](https://github.com/microsoft/vscode/issues/178474) had been Close 🔒 at 2023-03-28 
@@ -142,7 +142,7 @@
 1. [feat: support tab title display type configuration #198207](https://github.com/microsoft/vscode/pull/198207) had been Closed ❌  at 2023-11-14
 2. [feat: support iconThemes definitions for root folders #195319](https://github.com/microsoft/vscode/pull/195319) had been Merged 🎉 at 2023-10-11
 3. [fix: fix editor progress position when enabled pinnedTabsOnSeparateRow #195314](https://github.com/microsoft/vscode/pull/195314) had been Merged 🎉 at 2023-10-11
-4. [fix: select theme according to current color theme in dev mode #190035](https://github.com/microsoft/vscode/pull/190035) still in Open 💪  at 2023-08-09
+4. [fix: select theme according to current color theme in dev mode #190035](https://github.com/microsoft/vscode/pull/190035) had been Merged 🎉 at 2023-08-09
 5. [feat: add code lens in sticky scroll widget #182950](https://github.com/microsoft/vscode/pull/182950) had been Closed ❌  at 2023-05-19
 6. [chore: update IPCClient class comment #175198](https://github.com/microsoft/vscode/pull/175198) had been Merged 🎉 at 2023-02-23
 7. [[themes] font-weigth => font-weight #49613](https://github.com/microsoft/vscode/pull/49613) had been Merged 🎉 at 2018-05-10
