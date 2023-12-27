@@ -129,15 +129,16 @@
 1. [feat: to #13, Add logo to vscode-pyolite #26](https://github.com/joyceerhl/vscode-pyolite/pull/26) still in Open 💪  at 2023-09-13
 ## harbin1053020115 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### Issue List: 
-1. [Add tab title display type configuration #198204](https://github.com/microsoft/vscode/issues/198204) had been Close 🔒 at 2023-11-14 
-2. [Tab title control area is hidden partially #196929](https://github.com/microsoft/vscode/issues/196929) had been Close 🔒 at 2023-10-30 
-3. [Add rootFolderNames & rootFolderNamesExpanded iconThemes definitions for root folders #195316](https://github.com/microsoft/vscode/issues/195316) had been Close 🔒 at 2023-10-11 
-4. [Editor progress bar position is not in right position #195313](https://github.com/microsoft/vscode/issues/195313) had been Close 🔒 at 2023-10-11 
-5. [Select color theme according to current color theme in dev mode #190034](https://github.com/microsoft/vscode/issues/190034) still in Open ❗ at 2023-08-09 
-6. [Add codelens to stickyScroll #182949](https://github.com/microsoft/vscode/issues/182949) had been Close 🔒 at 2023-05-19 
-7. [vscode.dev get crashed while saving a untitled editor #177638](https://github.com/microsoft/vscode/issues/177638) had been Close 🔒 at 2023-03-20 
-8. [There is a wrong comment word in 'IPCClient' class(From ipc.ts in vscode source code) #175197](https://github.com/microsoft/vscode/issues/175197) had been Close 🔒 at 2023-02-23 
-9. [yarn run watch-web is not worked #168550](https://github.com/microsoft/vscode/issues/168550) had been Close 🔒 at 2022-12-09 
+1. [TreeView.activeItem returns TreeItem which is focused before clicking the blank area on TreeView #201499](https://github.com/microsoft/vscode/issues/201499) still in Open ❗ at 2023-12-26 
+2. [Add tab title display type configuration #198204](https://github.com/microsoft/vscode/issues/198204) had been Close 🔒 at 2023-11-14 
+3. [Tab title control area is hidden partially #196929](https://github.com/microsoft/vscode/issues/196929) had been Close 🔒 at 2023-10-30 
+4. [Add rootFolderNames & rootFolderNamesExpanded iconThemes definitions for root folders #195316](https://github.com/microsoft/vscode/issues/195316) had been Close 🔒 at 2023-10-11 
+5. [Editor progress bar position is not in right position #195313](https://github.com/microsoft/vscode/issues/195313) had been Close 🔒 at 2023-10-11 
+6. [Select color theme according to current color theme in dev mode #190034](https://github.com/microsoft/vscode/issues/190034) still in Open ❗ at 2023-08-09 
+7. [Add codelens to stickyScroll #182949](https://github.com/microsoft/vscode/issues/182949) had been Close 🔒 at 2023-05-19 
+8. [vscode.dev get crashed while saving a untitled editor #177638](https://github.com/microsoft/vscode/issues/177638) had been Close 🔒 at 2023-03-20 
+9. [There is a wrong comment word in 'IPCClient' class(From ipc.ts in vscode source code) #175197](https://github.com/microsoft/vscode/issues/175197) had been Close 🔒 at 2023-02-23 
+10. [yarn run watch-web is not worked #168550](https://github.com/microsoft/vscode/issues/168550) had been Close 🔒 at 2022-12-09 
 ### PR List: 
 1. [feat: support tab title display type configuration #198207](https://github.com/microsoft/vscode/pull/198207) had been Closed ❌  at 2023-11-14
 2. [feat: support iconThemes definitions for root folders #195319](https://github.com/microsoft/vscode/pull/195319) had been Merged 🎉 at 2023-10-11
