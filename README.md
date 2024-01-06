@@ -129,7 +129,7 @@
 1. [feat: to #13, Add logo to vscode-pyolite #26](https://github.com/joyceerhl/vscode-pyolite/pull/26) still in Open 💪  at 2023-09-13
 ## harbin1053020115 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### Issue List: 
-1. [Cannot restore editors when refreshing browser(by clicking the refresh button in chrome) too quickly #201602](https://github.com/microsoft/vscode/issues/201602) still in Open ❗ at 2023-12-29 
+1. [Cannot restore editors when refreshing browser(by clicking the refresh button in chrome) too quickly #201602](https://github.com/microsoft/vscode/issues/201602) had been Close 🔒 at 2023-12-29 
 2. [TreeView.activeItem returns TreeItem which is focused before clicking the blank area on TreeView #201499](https://github.com/microsoft/vscode/issues/201499) still in Open ❗ at 2023-12-26 
 3. [Add tab title display type configuration #198204](https://github.com/microsoft/vscode/issues/198204) had been Close 🔒 at 2023-11-14 
 4. [Tab title control area is hidden partially #196929](https://github.com/microsoft/vscode/issues/196929) had been Close 🔒 at 2023-10-30 
