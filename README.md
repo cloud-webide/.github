@@ -138,7 +138,7 @@
 4. [Tab title control area is hidden partially #196929](https://github.com/microsoft/vscode/issues/196929) had been Close 🔒 at 2023-10-30 
 5. [Add rootFolderNames & rootFolderNamesExpanded iconThemes definitions for root folders #195316](https://github.com/microsoft/vscode/issues/195316) had been Close 🔒 at 2023-10-11 
 6. [Editor progress bar position is not in right position #195313](https://github.com/microsoft/vscode/issues/195313) had been Close 🔒 at 2023-10-11 
-7. [Select color theme according to current color theme in dev mode #190034](https://github.com/microsoft/vscode/issues/190034) still in Open ❗ at 2023-08-09 
+7. [Select color theme according to current color theme in dev mode #190034](https://github.com/microsoft/vscode/issues/190034) had been Close 🔒 at 2023-08-09 
 8. [Add codelens to stickyScroll #182949](https://github.com/microsoft/vscode/issues/182949) had been Close 🔒 at 2023-05-19 
 9. [vscode.dev get crashed while saving a untitled editor #177638](https://github.com/microsoft/vscode/issues/177638) had been Close 🔒 at 2023-03-20 
 10. [There is a wrong comment word in 'IPCClient' class(From ipc.ts in vscode source code) #175197](https://github.com/microsoft/vscode/issues/175197) had been Close 🔒 at 2023-02-23 
