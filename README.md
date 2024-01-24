@@ -14,7 +14,7 @@
 5. [Unexpected vsda not found #198827](https://github.com/microsoft/vscode/issues/198827) had been Close 🔒 at 2023-11-22 
 6. [Unable to reuse opened browser pages when debugging VS Code on the Web side #197898](https://github.com/microsoft/vscode/issues/197898) had been Close 🔒 at 2023-11-10 
 7. [[languages] contribution point `languages` provide the ability to extends #197881](https://github.com/microsoft/vscode/issues/197881) still in Open ❗ at 2023-11-10 
-8. [Is the background color of diff as expected? #196685](https://github.com/microsoft/vscode/issues/196685) still in Open ❗ at 2023-10-26 
+8. [Is the background color of diff as expected? #196685](https://github.com/microsoft/vscode/issues/196685) had been Close 🔒 at 2023-10-26 
 9. [The default value of the contribution point needs to be displayed as a normal value #195980](https://github.com/microsoft/vscode/issues/195980) had been Close 🔒 at 2023-10-19 
 10. [Searching for text after localization is not supported in the Settings editor #195796](https://github.com/microsoft/vscode/issues/195796) had been Close 🔒 at 2023-10-17 
 11. [Is there a place to reveal the minimum supported browser version? #195552](https://github.com/microsoft/vscode/issues/195552) had been Close 🔒 at 2023-10-13 
