@@ -8,7 +8,7 @@
 ## yiliang114 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### Issue List: 
 1. [Many links in Settings cannot be clicked in the Chinese environment #202073](https://github.com/microsoft/vscode/issues/202073) still in Open ❗ at 2024-01-09 
-2. [`No Folder Opened` Translation is lost. #202390](https://github.com/microsoft/vscode/issues/202390) still in Open ❗ at 2024-01-09 
+2. [`No Folder Opened` Translation is lost. #202390](https://github.com/microsoft/vscode/issues/202390) had been Close 🔒 at 2024-01-09 
 3. [Tab title is covered when italic #200309](https://github.com/microsoft/vscode/issues/200309) still in Open ❗ at 2023-12-08 
 4. [Repeated loading of resource requests for web extensions #199269](https://github.com/microsoft/vscode/issues/199269) had been Close 🔒 at 2023-11-28 
 5. [Unexpected vsda not found #198827](https://github.com/microsoft/vscode/issues/198827) had been Close 🔒 at 2023-11-22 
