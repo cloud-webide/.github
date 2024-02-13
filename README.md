@@ -144,7 +144,7 @@
 10. [There is a wrong comment word in 'IPCClient' class(From ipc.ts in vscode source code) #175197](https://github.com/microsoft/vscode/issues/175197) had been Close 🔒 at 2023-02-23 
 11. [yarn run watch-web is not worked #168550](https://github.com/microsoft/vscode/issues/168550) had been Close 🔒 at 2022-12-09 
 ### PR List: 
-1. [chore: update vscode known variables #204568](https://github.com/microsoft/vscode/pull/204568) still in Open 💪  at 2024-02-07
+1. [chore: update vscode known variables #204568](https://github.com/microsoft/vscode/pull/204568) had been Merged 🎉 at 2024-02-07
 2. [feat: support tab title display type configuration #198207](https://github.com/microsoft/vscode/pull/198207) had been Closed ❌  at 2023-11-14
 3. [feat: support iconThemes definitions for root folders #195319](https://github.com/microsoft/vscode/pull/195319) had been Merged 🎉 at 2023-10-11
 4. [fix: fix editor progress position when enabled pinnedTabsOnSeparateRow #195314](https://github.com/microsoft/vscode/pull/195314) had been Merged 🎉 at 2023-10-11
