@@ -137,7 +137,7 @@
 1. [feat: to #13, Add logo to vscode-pyolite #26](https://github.com/joyceerhl/vscode-pyolite/pull/26) still in Open 💪  at 2023-09-13
 ## harbin1053020115 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### Issue List: 
-1. [First walkthrough is not opened automatic #207302](https://github.com/microsoft/vscode/issues/207302) still in Open ❗ at 2024-03-11 
+1. [First walkthrough is not opened automatic #207302](https://github.com/microsoft/vscode/issues/207302) had been Close 🔒 at 2024-03-11 
 2. [Cannot restore editors when refreshing browser(by clicking the refresh button in chrome) too quickly #201602](https://github.com/microsoft/vscode/issues/201602) had been Close 🔒 at 2023-12-29 
 3. [TreeView.activeItem returns TreeItem which is focused before clicking the blank area on TreeView #201499](https://github.com/microsoft/vscode/issues/201499) had been Close 🔒 at 2023-12-26 
 4. [Add tab title display type configuration #198204](https://github.com/microsoft/vscode/issues/198204) had been Close 🔒 at 2023-11-14 
@@ -150,7 +150,7 @@
 11. [There is a wrong comment word in 'IPCClient' class(From ipc.ts in vscode source code) #175197](https://github.com/microsoft/vscode/issues/175197) had been Close 🔒 at 2023-02-23 
 12. [yarn run watch-web is not worked #168550](https://github.com/microsoft/vscode/issues/168550) had been Close 🔒 at 2022-12-09 
 ### PR List: 
-1. [fix: auto focus first walkthrough bugfix #207303](https://github.com/microsoft/vscode/pull/207303) still in Open 💪  at 2024-03-11
+1. [fix: Select first extension walkthrough for first launch if no built-in walkthroughs present. #207303](https://github.com/microsoft/vscode/pull/207303) had been Merged 🎉 at 2024-03-11
 2. [chore: update vscode known variables #204568](https://github.com/microsoft/vscode/pull/204568) had been Merged 🎉 at 2024-02-07
 3. [feat: support tab title display type configuration #198207](https://github.com/microsoft/vscode/pull/198207) had been Closed ❌  at 2023-11-14
 4. [feat: support iconThemes definitions for root folders #195319](https://github.com/microsoft/vscode/pull/195319) had been Merged 🎉 at 2023-10-11
