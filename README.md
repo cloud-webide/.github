@@ -55,7 +55,7 @@
 46. [package.json `browser` field cannot be converted in `acquireWebNodePaths` #165162](https://github.com/microsoft/vscode/issues/165162) had been Close 🔒 at 2022-11-01 
 47. [Unable to specify `folder-uri` run with `./scripts/code-web.sh` #164414](https://github.com/microsoft/vscode/issues/164414) had been Close 🔒 at 2022-10-24 
 ### PR List: 
-1. [Fix #207977, multieditor tab border offset position when activated #207980](https://github.com/microsoft/vscode/pull/207980) still in Open 💪  at 2024-03-18
+1. [Fix #207977, multieditor tab border offset position when activated #207980](https://github.com/microsoft/vscode/pull/207980) had been Closed ❌  at 2024-03-18
 2. [Fix Copy/Cut command not working in webview #206529](https://github.com/microsoft/vscode/pull/206529) had been Merged 🎉 at 2024-02-29
 3. [Add tips for debug views #205861](https://github.com/microsoft/vscode/pull/205861) had been Merged 🎉 at 2024-02-21
 4. [Fix #205836, multiple menubar instances  register same command twice. #205848](https://github.com/microsoft/vscode/pull/205848) still in Open 💪  at 2024-02-21
