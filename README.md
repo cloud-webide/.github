@@ -8,7 +8,7 @@
 ## yiliang114 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### Issue List: 
 1. [There should be a prompt when clicking on the codelens(command) in the read-only editor #207982](https://github.com/microsoft/vscode/issues/207982) still in Open ❗ at 2024-03-18 
-2. [The tab split line is missing 1px in the split screen state. #207977](https://github.com/microsoft/vscode/issues/207977) still in Open ❗ at 2024-03-18 
+2. [Split View does not account for 1px border #207977](https://github.com/microsoft/vscode/issues/207977) still in Open ❗ at 2024-03-18 
 3. [Switching menubar display position failed with error #205836](https://github.com/microsoft/vscode/issues/205836) still in Open ❗ at 2024-02-21 
 4. [`Copy Image` command in markdown preview editor is invalid and an error is reported. #205624](https://github.com/microsoft/vscode/issues/205624) still in Open ❗ at 2024-02-20 
 5. [Many links in Settings cannot be clicked in the Chinese environment #202073](https://github.com/microsoft/vscode/issues/202073) still in Open ❗ at 2024-01-09 
