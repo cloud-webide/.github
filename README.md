@@ -132,7 +132,7 @@
 ### Issue List: 
 1. [打开 networks 尝试审查元素，chrome 失效，一定时间之后页面 100% 崩溃 #50](https://github.com/opensumi/ide-startup-lite/issues/50) still in Open ❗ at 2023-03-11 
 ### PR List: 
-1. [fix: 删除重复构建的步骤 #75](https://github.com/opensumi/ide-startup-lite/pull/75) still in Open 💪  at 2024-01-19
+1. [fix: 删除重复构建的步骤 #75](https://github.com/opensumi/ide-startup-lite/pull/75) had been Merged 🎉 at 2024-01-19
 2. [chore: fix typos and add lint #33](https://github.com/opensumi/ide-startup-lite/pull/33) had been Merged 🎉 at 2022-09-17
 3. [fix: fix quot in readme #32](https://github.com/opensumi/ide-startup-lite/pull/32) had been Merged 🎉 at 2022-09-15
 ## yiliang114 in [joyceerhl/vscode-pyolite](https://github.com/joyceerhl/vscode-pyolite)
