@@ -7,7 +7,7 @@
 <!--START_SECTION:activity-->
 ## yiliang114 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### Issue List: 
-1. [Refresh button in the address bar, view cache cannot be updated normally. #213885](https://github.com/microsoft/vscode/issues/213885) still in Open ❗ at 2024-05-30 
+1. [Panel visibility is not persisted/restored on vscode.dev after restart #213885](https://github.com/microsoft/vscode/issues/213885) still in Open ❗ at 2024-05-30 
 2. [There should be a prompt when clicking on the codelens(command) in the read-only editor #207982](https://github.com/microsoft/vscode/issues/207982) still in Open ❗ at 2024-03-18 
 3. [Split View does not account for 1px border #207977](https://github.com/microsoft/vscode/issues/207977) still in Open ❗ at 2024-03-18 
 4. [Switching menubar display position failed with error #205836](https://github.com/microsoft/vscode/issues/205836) still in Open ❗ at 2024-02-21 
@@ -56,7 +56,7 @@
 47. [package.json `browser` field cannot be converted in `acquireWebNodePaths` #165162](https://github.com/microsoft/vscode/issues/165162) had been Close 🔒 at 2022-11-01 
 48. [Unable to specify `folder-uri` run with `./scripts/code-web.sh` #164414](https://github.com/microsoft/vscode/issues/164414) had been Close 🔒 at 2022-10-24 
 ### PR List: 
-1. [Fix #213885, make doShutdown asynchronous and wait for storage service flush when triggered by beforeunload #213896](https://github.com/microsoft/vscode/pull/213896) still in Open 💪  at 2024-05-30
+1. [Fix #213885, As much as possible flush the storage in beforeunload callback #213896](https://github.com/microsoft/vscode/pull/213896) still in Open 💪  at 2024-05-30
 2. [Fix #207977, multieditor tab border offset position when activated #207980](https://github.com/microsoft/vscode/pull/207980) had been Closed ❌  at 2024-03-18
 3. [Fix Copy/Cut command not working in webview #206529](https://github.com/microsoft/vscode/pull/206529) had been Merged 🎉 at 2024-02-29
 4. [Add tips for debug views #205861](https://github.com/microsoft/vscode/pull/205861) had been Merged 🎉 at 2024-02-21
