@@ -7,7 +7,7 @@
 <!--START_SECTION:activity-->
 ## yiliang114 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### Issue List: 
-1. [Panel visibility is not persisted/restored on vscode.dev after restart #213885](https://github.com/microsoft/vscode/issues/213885) still in Open ❗ at 2024-05-30 
+1. [Panel visibility is not persisted/restored on vscode.dev after restart #213885](https://github.com/microsoft/vscode/issues/213885) had been Close 🔒 at 2024-05-30 
 2. [There should be a prompt when clicking on the codelens(command) in the read-only editor #207982](https://github.com/microsoft/vscode/issues/207982) still in Open ❗ at 2024-03-18 
 3. [Split View does not account for 1px border #207977](https://github.com/microsoft/vscode/issues/207977) still in Open ❗ at 2024-03-18 
 4. [Switching menubar display position failed with error #205836](https://github.com/microsoft/vscode/issues/205836) still in Open ❗ at 2024-02-21 
