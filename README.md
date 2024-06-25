@@ -12,7 +12,7 @@
 3. [Split View does not account for 1px border #207977](https://github.com/microsoft/vscode/issues/207977) still in Open ❗ at 2024-03-18 
 4. [Switching menubar display position failed with error #205836](https://github.com/microsoft/vscode/issues/205836) still in Open ❗ at 2024-02-21 
 5. [`Copy Image` command in markdown preview editor is invalid and an error is reported. #205624](https://github.com/microsoft/vscode/issues/205624) still in Open ❗ at 2024-02-20 
-6. [Many links in Settings cannot be clicked in the Chinese environment #202073](https://github.com/microsoft/vscode/issues/202073) still in Open ❗ at 2024-01-09 
+6. [Many links in Settings cannot be clicked in the Chinese environment #202073](https://github.com/microsoft/vscode/issues/202073) had been Close 🔒 at 2024-01-09 
 7. [`No Folder Opened` Translation is lost. #202390](https://github.com/microsoft/vscode/issues/202390) had been Close 🔒 at 2024-01-09 
 8. [Tab title is covered when italic #200309](https://github.com/microsoft/vscode/issues/200309) still in Open ❗ at 2023-12-08 
 9. [Repeated loading of resource requests for web extensions #199269](https://github.com/microsoft/vscode/issues/199269) had been Close 🔒 at 2023-11-28 
