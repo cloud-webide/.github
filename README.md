@@ -142,7 +142,7 @@
 1. [feat: to #13, Add logo to vscode-pyolite #26](https://github.com/joyceerhl/vscode-pyolite/pull/26) still in Open 💪  at 2023-09-13
 ## harbin1053020115 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### Issue List: 
-1. [Allow to cancel a file save without showing error #213894](https://github.com/microsoft/vscode/issues/213894) still in Open ❗ at 2024-05-30 
+1. [Allow to cancel a file save without showing error #213894](https://github.com/microsoft/vscode/issues/213894) had been Close 🔒 at 2024-05-30 
 2. [First walkthrough is not opened automatic #207302](https://github.com/microsoft/vscode/issues/207302) had been Close 🔒 at 2024-03-11 
 3. [Cannot restore editors when refreshing browser(by clicking the refresh button in chrome) too quickly #201602](https://github.com/microsoft/vscode/issues/201602) had been Close 🔒 at 2023-12-29 
 4. [TreeView.activeItem returns TreeItem which is focused before clicking the blank area on TreeView #201499](https://github.com/microsoft/vscode/issues/201499) had been Close 🔒 at 2023-12-26 
