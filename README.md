@@ -10,7 +10,7 @@
 1. [Panel visibility is not persisted/restored on vscode.dev after restart #213885](https://github.com/microsoft/vscode/issues/213885) had been Close 🔒 at 2024-05-30 
 2. [There should be a prompt when clicking on the codelens(command) in the read-only editor #207982](https://github.com/microsoft/vscode/issues/207982) still in Open ❗ at 2024-03-18 
 3. [Split View does not account for 1px border #207977](https://github.com/microsoft/vscode/issues/207977) still in Open ❗ at 2024-03-18 
-4. [Switching menubar display position failed with error #205836](https://github.com/microsoft/vscode/issues/205836) still in Open ❗ at 2024-02-21 
+4. [Switching menubar display position failed with error #205836](https://github.com/microsoft/vscode/issues/205836) had been Close 🔒 at 2024-02-21 
 5. [`Copy Image` command in markdown preview editor is invalid and an error is reported. #205624](https://github.com/microsoft/vscode/issues/205624) still in Open ❗ at 2024-02-20 
 6. [Many links in Settings cannot be clicked in the Chinese environment #202073](https://github.com/microsoft/vscode/issues/202073) had been Close 🔒 at 2024-01-09 
 7. [`No Folder Opened` Translation is lost. #202390](https://github.com/microsoft/vscode/issues/202390) had been Close 🔒 at 2024-01-09 
