@@ -7,7 +7,8 @@
 <!--START_SECTION:activity-->
 ## Cecil0o0 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### PR List: 
-1. [refactor: merge same namespace declaration #219638](https://github.com/microsoft/vscode/pull/219638) had been Merged 🎉 at 2024-07-02
+1. [chore: rm unreached ignore items when build extensions. #227906](https://github.com/microsoft/vscode/pull/227906) still in Open 💪  at 2024-09-08
+2. [refactor: merge same namespace declaration #219638](https://github.com/microsoft/vscode/pull/219638) had been Merged 🎉 at 2024-07-02
 ## yiliang114 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### Issue List: 
 1. [Panel visibility is not persisted/restored on vscode.dev after restart #213885](https://github.com/microsoft/vscode/issues/213885) had been Close 🔒 at 2024-05-30 
