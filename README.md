@@ -7,7 +7,7 @@
 <!--START_SECTION:activity-->
 ## Cecil0o0 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### PR List: 
-1. [refactor: use `node:` like module specifier for built-in modules. #228973](https://github.com/microsoft/vscode/pull/228973) still in Open 💪  at 2024-09-18
+1. [refactor: use `node:` like module specifier for built-in modules. #228973](https://github.com/microsoft/vscode/pull/228973) had been Closed ❌  at 2024-09-18
 2. [chore: rm unreached ignore items when build extensions. #227906](https://github.com/microsoft/vscode/pull/227906) had been Merged 🎉 at 2024-09-08
 3. [refactor: merge same namespace declaration #219638](https://github.com/microsoft/vscode/pull/219638) had been Merged 🎉 at 2024-07-02
 ## yiliang114 in [microsoft/vscode](https://github.com/microsoft/vscode)
