@@ -7,13 +7,14 @@
 <!--START_SECTION:activity-->
 ## Cecil0o0 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### PR List: 
-1. [ESM: remove a trace of AMD #233523](https://github.com/microsoft/vscode/pull/233523) still in Open 💪  at 2024-11-10
-2. [refactor: use `node:` like module specifier for built-in modules. #228973](https://github.com/microsoft/vscode/pull/228973) had been Closed ❌  at 2024-09-18
-3. [chore: rm unreached ignore items when build extensions. #227906](https://github.com/microsoft/vscode/pull/227906) had been Merged 🎉 at 2024-09-08
-4. [refactor: merge same namespace declaration #219638](https://github.com/microsoft/vscode/pull/219638) had been Merged 🎉 at 2024-07-02
+1. [fix: declare "original-fs" dependency referenced by "src/main.ts" #233678](https://github.com/microsoft/vscode/pull/233678) had been Closed ❌  at 2024-11-12
+2. [ESM: remove a trace of AMD #233523](https://github.com/microsoft/vscode/pull/233523) had been Closed ❌  at 2024-11-10
+3. [refactor: use `node:` like module specifier for built-in modules. #228973](https://github.com/microsoft/vscode/pull/228973) had been Closed ❌  at 2024-09-18
+4. [chore: rm unreached ignore items when build extensions. #227906](https://github.com/microsoft/vscode/pull/227906) had been Merged 🎉 at 2024-09-08
+5. [refactor: merge same namespace declaration #219638](https://github.com/microsoft/vscode/pull/219638) had been Merged 🎉 at 2024-07-02
 ## Cecil0o0 in [microsoft/vscode-test-web](https://github.com/microsoft/vscode-test-web)
 ### PR List: 
-1. [VS Code main has moving back to npm. #148](https://github.com/microsoft/vscode-test-web/pull/148) still in Open 💪  at 2024-11-11
+1. [VS Code main has moved back to npm, we could catch it #148](https://github.com/microsoft/vscode-test-web/pull/148) still in Open 💪  at 2024-11-11
 ## yiliang114 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### Issue List: 
 1. [Panel visibility is not persisted/restored on vscode.dev after restart #213885](https://github.com/microsoft/vscode/issues/213885) had been Close 🔒 at 2024-05-30 
