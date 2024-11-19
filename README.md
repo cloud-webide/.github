@@ -14,7 +14,7 @@
 5. [refactor: merge same namespace declaration #219638](https://github.com/microsoft/vscode/pull/219638) had been Merged 🎉 at 2024-07-02
 ## Cecil0o0 in [microsoft/vscode-test-web](https://github.com/microsoft/vscode-test-web)
 ### PR List: 
-1. [VS Code main has moved back to npm, we could catch it #148](https://github.com/microsoft/vscode-test-web/pull/148) still in Open 💪  at 2024-11-11
+1. [VS Code main has moved back to npm, we could catch it #148](https://github.com/microsoft/vscode-test-web/pull/148) had been Merged 🎉 at 2024-11-11
 ## yiliang114 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### Issue List: 
 1. [Panel visibility is not persisted/restored on vscode.dev after restart #213885](https://github.com/microsoft/vscode/issues/213885) had been Close 🔒 at 2024-05-30 
