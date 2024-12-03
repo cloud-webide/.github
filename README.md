@@ -7,7 +7,7 @@
 <!--START_SECTION:activity-->
 ## Cecil0o0 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### PR List: 
-1. [import Module Specifier prefer mode 'project-relative' #234811](https://github.com/microsoft/vscode/pull/234811) still in Open 💪  at 2024-11-28
+1. [import Module Specifier prefer mode 'project-relative' #234811](https://github.com/microsoft/vscode/pull/234811) had been Closed ❌  at 2024-11-28
 2. [fix: declare "original-fs" dependency referenced by "src/main.ts" #233678](https://github.com/microsoft/vscode/pull/233678) had been Closed ❌  at 2024-11-12
 3. [ESM: remove a trace of AMD #233523](https://github.com/microsoft/vscode/pull/233523) had been Closed ❌  at 2024-11-10
 4. [refactor: use `node:` like module specifier for built-in modules. #228973](https://github.com/microsoft/vscode/pull/228973) had been Closed ❌  at 2024-09-18
