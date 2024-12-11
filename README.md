@@ -167,7 +167,7 @@
 12. [There is a wrong comment word in 'IPCClient' class(From ipc.ts in vscode source code) #175197](https://github.com/microsoft/vscode/issues/175197) had been Close 🔒 at 2023-02-23 
 13. [yarn run watch-web is not worked #168550](https://github.com/microsoft/vscode/issues/168550) had been Close 🔒 at 2022-12-09 
 ### PR List: 
-1. [feat: support cancel before save file(#213894) #213895](https://github.com/microsoft/vscode/pull/213895) still in Open 💪  at 2024-05-30
+1. [feat: support cancel before save file(#213894) #213895](https://github.com/microsoft/vscode/pull/213895) had been Closed ❌  at 2024-05-30
 2. [fix: Select first extension walkthrough for first launch if no built-in walkthroughs present. #207303](https://github.com/microsoft/vscode/pull/207303) had been Merged 🎉 at 2024-03-11
 3. [chore: update vscode known variables #204568](https://github.com/microsoft/vscode/pull/204568) had been Merged 🎉 at 2024-02-07
 4. [feat: support tab title display type configuration #198207](https://github.com/microsoft/vscode/pull/198207) had been Closed ❌  at 2023-11-14
