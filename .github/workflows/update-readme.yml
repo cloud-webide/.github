@@ -3,6 +3,7 @@ name: Update Recent Activity
 on:
   push:
     branches: [main]
+  workflow_dispatch:
   schedule:
     # 北京时间 9:00
     - cron: "0 1 * * *"
