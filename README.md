@@ -24,7 +24,7 @@
 1. [VS Code main has moved back to npm, we could catch it #148](https://github.com/microsoft/vscode-test-web/pull/148) had been Merged 🎉 at 2024-11-11
 ## yiliang114 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### Issue List: 
-1. [Submenus in TreeView overflow and pierce through when horizontal space is insufficient #263546](https://github.com/microsoft/vscode/issues/263546) still in Open ❗ at 2025-08-27 
+1. [Submenus in TreeView overflow and pierce through when horizontal space is insufficient #263546](https://github.com/microsoft/vscode/issues/263546) had been Close 🔒 at 2025-08-27 
 2. [Label is not displayed completely in the findWidget of the notebook #250737](https://github.com/microsoft/vscode/issues/250737) had been Close 🔒 at 2025-06-05 
 3. [Panel visibility is not persisted/restored on vscode.dev after restart #213885](https://github.com/microsoft/vscode/issues/213885) had been Close 🔒 at 2024-05-30 
 4. [There should be a prompt when clicking on the codelens(command) in the read-only editor #207982](https://github.com/microsoft/vscode/issues/207982) still in Open ❗ at 2024-03-18 
@@ -75,7 +75,7 @@
 49. [package.json `browser` field cannot be converted in `acquireWebNodePaths` #165162](https://github.com/microsoft/vscode/issues/165162) had been Close 🔒 at 2022-11-01 
 50. [Unable to specify `folder-uri` run with `./scripts/code-web.sh` #164414](https://github.com/microsoft/vscode/issues/164414) had been Close 🔒 at 2022-10-24 
 ### PR List: 
-1. [Fix to #263546, for submenu of treeView view/item/context z-index iss… #263555](https://github.com/microsoft/vscode/pull/263555) still in Open 💪  at 2025-08-27
+1. [Fix to #263546, for submenu of treeView view/item/context z-index iss… #263555](https://github.com/microsoft/vscode/pull/263555) had been Merged 🎉 at 2025-08-27
 2. [Fix #250737,  Match count result overflow in Notebook findWidget #250738](https://github.com/microsoft/vscode/pull/250738) had been Merged 🎉 at 2025-06-05
 3. [Fix #213885, As much as possible flush the storage in beforeunload callback #213896](https://github.com/microsoft/vscode/pull/213896) had been Closed ❌  at 2024-05-30
 4. [Fix #207977, multieditor tab border offset position when activated #207980](https://github.com/microsoft/vscode/pull/207980) had been Closed ❌  at 2024-03-18
