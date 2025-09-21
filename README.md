@@ -179,17 +179,18 @@
 14. [There is a wrong comment word in 'IPCClient' class(From ipc.ts in vscode source code) #175197](https://github.com/microsoft/vscode/issues/175197) had been Close 🔒 at 2023-02-23 
 15. [yarn run watch-web is not worked #168550](https://github.com/microsoft/vscode/issues/168550) had been Close 🔒 at 2022-12-09 
 ### PR List: 
-1. [fix: fix notebook overlay layout problem #267323](https://github.com/microsoft/vscode/pull/267323) still in Open 💪  at 2025-09-18
-2. [feat: support cancel before save file(#213894) #213895](https://github.com/microsoft/vscode/pull/213895) had been Closed ❌  at 2024-05-30
-3. [fix: Select first extension walkthrough for first launch if no built-in walkthroughs present. #207303](https://github.com/microsoft/vscode/pull/207303) had been Merged 🎉 at 2024-03-11
-4. [chore: update vscode known variables #204568](https://github.com/microsoft/vscode/pull/204568) had been Merged 🎉 at 2024-02-07
-5. [feat: support tab title display type configuration #198207](https://github.com/microsoft/vscode/pull/198207) had been Closed ❌  at 2023-11-14
-6. [feat: support iconThemes definitions for root folders #195319](https://github.com/microsoft/vscode/pull/195319) had been Merged 🎉 at 2023-10-11
-7. [fix: fix editor progress position when enabled pinnedTabsOnSeparateRow #195314](https://github.com/microsoft/vscode/pull/195314) had been Merged 🎉 at 2023-10-11
-8. [fix: select theme according to current color theme in dev mode #190035](https://github.com/microsoft/vscode/pull/190035) had been Merged 🎉 at 2023-08-09
-9. [feat: add code lens in sticky scroll widget #182950](https://github.com/microsoft/vscode/pull/182950) had been Closed ❌  at 2023-05-19
-10. [chore: update IPCClient class comment #175198](https://github.com/microsoft/vscode/pull/175198) had been Merged 🎉 at 2023-02-23
-11. [[themes] font-weigth => font-weight #49613](https://github.com/microsoft/vscode/pull/49613) had been Merged 🎉 at 2018-05-10
+1. [feat: split editor group direction according to workbench.editor.splitInGroupLayout configuration when clicking walkthrough ':toSide' commands  #267557](https://github.com/microsoft/vscode/pull/267557) still in Open 💪  at 2025-09-20
+2. [fix: fix notebook overlay layout problem #267323](https://github.com/microsoft/vscode/pull/267323) still in Open 💪  at 2025-09-18
+3. [feat: support cancel before save file(#213894) #213895](https://github.com/microsoft/vscode/pull/213895) had been Closed ❌  at 2024-05-30
+4. [fix: Select first extension walkthrough for first launch if no built-in walkthroughs present. #207303](https://github.com/microsoft/vscode/pull/207303) had been Merged 🎉 at 2024-03-11
+5. [chore: update vscode known variables #204568](https://github.com/microsoft/vscode/pull/204568) had been Merged 🎉 at 2024-02-07
+6. [feat: support tab title display type configuration #198207](https://github.com/microsoft/vscode/pull/198207) had been Closed ❌  at 2023-11-14
+7. [feat: support iconThemes definitions for root folders #195319](https://github.com/microsoft/vscode/pull/195319) had been Merged 🎉 at 2023-10-11
+8. [fix: fix editor progress position when enabled pinnedTabsOnSeparateRow #195314](https://github.com/microsoft/vscode/pull/195314) had been Merged 🎉 at 2023-10-11
+9. [fix: select theme according to current color theme in dev mode #190035](https://github.com/microsoft/vscode/pull/190035) had been Merged 🎉 at 2023-08-09
+10. [feat: add code lens in sticky scroll widget #182950](https://github.com/microsoft/vscode/pull/182950) had been Closed ❌  at 2023-05-19
+11. [chore: update IPCClient class comment #175198](https://github.com/microsoft/vscode/pull/175198) had been Merged 🎉 at 2023-02-23
+12. [[themes] font-weigth => font-weight #49613](https://github.com/microsoft/vscode/pull/49613) had been Merged 🎉 at 2018-05-10
 ## harbin1053020115 in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
 ### PR List: 
 1. [Refactor/rename messaging contribution push param #10996](https://github.com/eclipse-theia/theia/pull/10996) had been Closed ❌  at 2022-04-06
