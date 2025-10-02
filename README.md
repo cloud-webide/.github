@@ -163,7 +163,7 @@
 1. [feat: to #13, Add logo to vscode-pyolite #26](https://github.com/joyceerhl/vscode-pyolite/pull/26) still in Open 💪  at 2023-09-13
 ## harbin1053020115 in [microsoft/vscode](https://github.com/microsoft/vscode)
 ### Issue List: 
-1. [Use "workbench.editor.splitInGroupLayout" configuration to split editor group when using walkthrough "toSide" commands #267555](https://github.com/microsoft/vscode/issues/267555) still in Open ❗ at 2025-09-20 
+1. [Use "workbench.editor.splitInGroupLayout" configuration to split editor group when using walkthrough "toSide" commands #267555](https://github.com/microsoft/vscode/issues/267555) had been Close 🔒 at 2025-09-20 
 2. [Notebook overlay layout problem #267312](https://github.com/microsoft/vscode/issues/267312) still in Open ❗ at 2025-09-18 
 3. [Allow to cancel a file save without showing error #213894](https://github.com/microsoft/vscode/issues/213894) had been Close 🔒 at 2024-05-30 
 4. [First walkthrough is not opened automatic #207302](https://github.com/microsoft/vscode/issues/207302) had been Close 🔒 at 2024-03-11 
@@ -179,7 +179,7 @@
 14. [There is a wrong comment word in 'IPCClient' class(From ipc.ts in vscode source code) #175197](https://github.com/microsoft/vscode/issues/175197) had been Close 🔒 at 2023-02-23 
 15. [yarn run watch-web is not worked #168550](https://github.com/microsoft/vscode/issues/168550) had been Close 🔒 at 2022-12-09 
 ### PR List: 
-1. [feat: split editor group direction according to workbench.editor.splitInGroupLayout configuration when clicking walkthrough ':toSide' commands  #267557](https://github.com/microsoft/vscode/pull/267557) still in Open 💪  at 2025-09-20
+1. [feat: split editor group direction according to workbench.editor.splitInGroupLayout configuration when clicking walkthrough ':toSide' commands  #267557](https://github.com/microsoft/vscode/pull/267557) had been Merged 🎉 at 2025-09-20
 2. [fix: fix notebook overlay layout problem #267323](https://github.com/microsoft/vscode/pull/267323) still in Open 💪  at 2025-09-18
 3. [feat: support cancel before save file(#213894) #213895](https://github.com/microsoft/vscode/pull/213895) had been Closed ❌  at 2024-05-30
 4. [fix: Select first extension walkthrough for first launch if no built-in walkthroughs present. #207303](https://github.com/microsoft/vscode/pull/207303) had been Merged 🎉 at 2024-03-11
